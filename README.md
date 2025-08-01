@@ -63,5 +63,5 @@ Two primary dashboards were designed in Power BI to provide a clear and organize
 * Power Query: Data cleaning, transformation, and shaping.
 * DAX (Data Analysis Expressions): Creating custom measures for advanced calculations.
 
- this dashboard to Power BI Service, you can include a link here so others can interact with it.]
+ 
 
